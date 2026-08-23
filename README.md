@@ -257,8 +257,6 @@ jupyter
 - [x] Research paper PDF
 - [x] CNN architecture, training, and evaluation
 - [x] Transfer learning (feature extraction + fine-tuning)
-- [x] Comparative study with metrics table and conclusion
-- [x] Research paper understanding and comparison section
 - [x] README file
 
 ---
