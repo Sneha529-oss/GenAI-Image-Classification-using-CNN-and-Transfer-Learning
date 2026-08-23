@@ -1,6 +1,6 @@
 # Generative AI - Practical No-01: Image Classification using CNN and Transfer Learning
 
-# Breast Cancer Histopathological Image Classification — CNN vs Transfer Learning (VGG16)
+## Breast Cancer Histopathological Image Classification — CNN vs Transfer Learning (VGG16)
 
 Image classification pipeline built for a Generative AI lab assignment, comparing a **Custom CNN trained from scratch** against **VGG16 transfer learning**, on histopathological breast cancer images. Implementation is grounded in and compared against a peer-reviewed research paper on the same problem.
 
@@ -274,4 +274,4 @@ jupyter
 
 I, **Sneha Chaurasia**, confirm that this implementation was prepared for Practical Assignment 1 and that the results presented are generated from the experiments performed in this notebook.
 
-**GitHub Repository Link:** *(insert your repo link here)*
+**GitHub Repository Link:** *(https://github.com/Sneha529-oss/GenAI-Image-Classification-using-CNN-and-Transfer-Learning)*
